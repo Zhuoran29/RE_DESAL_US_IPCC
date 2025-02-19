@@ -1,5 +1,7 @@
-# Directory of this repositoy
+# Renewable Energy Powered Desalination in the US under climate change scenarios
 
+## Directory of this repositoy
+- Wind_resource: Include API to download wind hourly data from WindToolkit
 
 
 ## This program relies on a certain version of WaterTAP-REFLO packages, please install the package in order to run the models:
