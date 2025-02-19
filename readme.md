@@ -3,7 +3,7 @@
 ## Directory of this repositoy
 - Wind_resource: Includes API to download wind hourly data from WindToolkit
 - VAGMD_batch  : Includes python script and data for the batch-VAGMD model
-- watertap_reflo:Includes WaterTAP-reflo models
+
 
 ## This program relies on a certain version of WaterTAP-REFLO packages, please install the package in order to run the models:
 
